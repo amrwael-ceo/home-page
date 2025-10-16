@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Collaborate Business</title>
+  <link rel="stylesheet" href="assets/css/style.css" />
+</head>
+<body>
+  <header class="main-header fixed">
+    <div class="logo">COLLABORATE</div>
+    <nav class="nav-tabs">
+      <a href="index.html">Home</a>
+      <a href="client-request.html">Client Request</a>
+      <a href="vacancies.html">Vacancies</a>
+      <a href="candidates.html">For Candidates</a>
+      <a href="about.html">About</a>
+    </nav>
+    <div class="contact-emails">
+      <span>support@collaboratebusiness.com</span> |
+      <span>hiringreq@collaboratebusiness.com</span> |
+      <span>jobapp@collaboratebusiness.com</span>
+    </div>
+  </header>
+
+  <section class="slideshow">
+    <div class="slide">Integrity</div>
+    <div class="slide">Trust</div>
+    <div class="slide">Transparency</div>
+    <div class="slide">Excellence</div>
+  </section>
+
+  <main class="home-content">
+    <h1>Welcome to Collaborate Business</h1>
+    <p>Your trusted career connection for companies and candidates alike.</p>
+    <div class="cta-buttons">
+      <a href="client-request.html" class="btn-gold">Post a Job</a>
+      <a href="vacancies.html" class="btn-black">Find a Job</a>
+    </div>
+  </main>
+</body>
+</html>
